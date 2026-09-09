@@ -2,7 +2,7 @@
 
 **Systems engineer. I find the fault that five reboots didn't fix.**
 
-Owner & Lead Technician at [Berkshire IT Services](https://berkshireitservices.co.uk) —
+Owner & Lead Technician at <a href="https://berkshireitservices.co.uk" target="_blank" rel="noopener noreferrer">Berkshire IT Services</a> —
 fully mobile IT support across Berkshire, UK. No workshop, no ticket queue,
 just one engineer who turns up (or screenshares) and fixes it properly.
 
@@ -35,8 +35,8 @@ just one engineer who turns up (or screenshares) and fixes it properly.
 
 ## Find me
 
-- 🌐 [berkshireitservices.co.uk](https://berkshireitservices.co.uk)
-- 📞 [(01344) 935008](https://berkshireitservices.co.uk/contact/)
+- 🌐 <a href="https://berkshireitservices.co.uk" target="_blank" rel="noopener noreferrer">berkshireitservices.co.uk</a>
+- 📞 <a href="https://berkshireitservices.co.uk/contact/" target="_blank" rel="noopener noreferrer">(01344) 935008</a>
 - 📍 Ascot, Berkshire, UK
 
 ---
