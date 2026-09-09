@@ -42,10 +42,3 @@ just one engineer who turns up (or screenshares) and fixes it properly.
 ---
 
 <sub>*Most of my commits fix computers. Some of them fix the computers that fix computers.*</sub>
-````
-
-  Notes on the copy:
-  - Craft-first headline ("I find the fault...") positions Paul as an engineer, not a storefront — matches Phase 0 entity strategy.
-  - `residential-network-diagnostics` is name-dropped ahead of launch so the profile and flagship repo reinforce each other (Phase 4).
-  - The `BLOG-POST-LIST` markers are inert until Phase 6.2 wires up the GitHub Action — safe to ship now.
-  - British spellings, phone number matches the BITS site exactly (entity consistency).
