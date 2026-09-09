@@ -21,7 +21,7 @@ just one engineer who turns up (or screenshares) and fixes it properly.
 ## How I work
 
 | | |
-|---|---|
+| --- | --- |
 | 🗺️ **Patch** | Ascot · Bracknell · Windsor · Maidenhead · Wokingham & surrounding Berkshire |
 | 🖥️ **Platforms** | Windows, macOS, Linux — plus the routers, NAS boxes and printers in between |
 | 📶 **Speciality** | Network diagnostics: if the Wi-Fi "just drops sometimes", that's my favourite kind of job |
