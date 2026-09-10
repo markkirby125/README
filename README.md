@@ -12,11 +12,29 @@ just one engineer who turns up (or screenshares) and fixes it properly.
 
 - 🔧 **Berkshire IT Services** — on-site & remote support for homes and small businesses.
   Computer repair, malware removal, Wi-Fi dead-zone hunts, data recovery, new-PC setup.
-- 📡 **residential-network-diagnostics** *(coming soon)* — open-source scripts for
-  diagnosing flaky home broadband: bufferbloat, channel congestion, DHCP weirdness.
-  The toolkit I actually use on call-outs.
+- ♿ **The Vision Apps toolkit** — four open-source accessibility tools for low-vision,
+  photophobic and astigmatic readers. See below.
+- 📡 **[residential-network-diagnostics](https://github.com/markkirby125/residential-network-diagnostics)** —
+  open-source scripts for diagnosing flaky home broadband: bufferbloat, channel
+  congestion, DHCP weirdness. The toolkit I actually use on call-outs.
 - 🧰 **BITS internal tooling** — the worker scripts, checklists and automation that
   keep a one-person IT business running like a ten-person one.
+
+## Open source: the Vision Apps toolkit
+
+Four small, dependency-light tools that reduce visual strain on screen. Built after
+seeing how often "just use high-contrast dark mode" makes things *worse* for people
+with astigmatism, photophobia or migraine — white-on-black halates rather than helps.
+
+| Project | What it does | Live |
+| --- | --- | --- |
+| **ChromaCalm** | Zero-install spectral notch filtering (FL-41 / 520nm) as a web tool and bookmarklet. | [demo](https://markkirby125.github.io/chromacalm/) |
+| **SoftContrast** | Anti-halation reading palettes built on APCA and OKLCH. | [demo](https://markkirby125.github.io/softcontrast/) |
+| **FocusBeacon** | Dual-contour high-contrast focus ring and a cursor radar for tunnel vision. | [demo](https://markkirby125.github.io/focusbeacon/) |
+| **terminal-a11y** | Screen-reader, photophobia, braille and sensory-budget modes for the command line. | — |
+
+All MIT-licensed. Shared governance, specs and research live in the
+[**Vision Apps** umbrella repo](https://github.com/markkirby125/vision-apps).
 
 ## How I work
 
@@ -26,12 +44,6 @@ just one engineer who turns up (or screenshares) and fixes it properly.
 | 🖥️ **Platforms** | Windows, macOS, Linux — plus the routers, NAS boxes and printers in between |
 | 📶 **Speciality** | Network diagnostics: if the Wi-Fi "just drops sometimes", that's my favourite kind of job |
 | 🗣️ **Approach** | Plain English, fixed quotes, no jargon, no upsell |
-
-## Latest from the blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Auto-updated via GitHub Actions — see Phase 6.2 -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Find me
 
