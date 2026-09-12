@@ -14,6 +14,11 @@ just one engineer who turns up (or screenshares) and fixes it properly.
   Computer repair, malware removal, Wi-Fi dead-zone hunts, data recovery, new-PC setup.
 - ♿ **The Vision Apps toolkit** — four open-source accessibility tools for low-vision,
   photophobic and astigmatic readers. See below.
+- 🤖 **[Kirby AI Skills Collection](https://github.com/markkirby125/kirby-skills-collection)** —
+  deterministic SOPs and execution frameworks for AI agents (Antigravity, Claude Code, Cursor, Windsurf).
+  Covers Answer Engine Optimisation (AEO), accessibility contrast auditing, and agent security.
+- 📚 **[Tiffany Lambert PLR Skills Collection](https://github.com/markkirby125/kirby-skills-tiff-collection)** —
+  an 8-skill agent suite executing Two-Way Personalisation and Framework Fusion to convert static PLR into high-converting, anti-slop digital assets, direct-response copy, and omnichannel campaigns.
 - 📡 **[residential-network-diagnostics](https://github.com/markkirby125/residential-network-diagnostics)** —
   open-source scripts for diagnosing flaky home broadband: bufferbloat, channel
   congestion, DHCP weirdness. The toolkit I actually use on call-outs.
