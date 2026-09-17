@@ -19,6 +19,8 @@ just one engineer who turns up (or screenshares) and fixes it properly.
   Covers Answer Engine Optimisation (AEO), accessibility contrast auditing, and agent security.
 - 📚 **[Tiffany Lambert PLR Skills Collection](https://github.com/markkirby125/kirby-skills-tiff-collection)** —
   an 8-skill agent suite executing Two-Way Personalisation and Framework Fusion to convert static PLR into high-converting, anti-slop digital assets, direct-response copy, and omnichannel campaigns.
+- ✍️ **[William Fitzpatrick Cognitive Writing Suite](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)** —
+  a 48-skill AI agent writing suite adapted from William Fitzpatrick's cognitive writing science (Writer Science). Enforces syntactic compression, locomotive syntax, paragraph cohesion, fractal proposals, and calibrated technical tone across coding assistants.
 - 📡 **[residential-network-diagnostics](https://github.com/markkirby125/residential-network-diagnostics)** —
   open-source scripts for diagnosing flaky home broadband: bufferbloat, channel
   congestion, DHCP weirdness. The toolkit I actually use on call-outs.
